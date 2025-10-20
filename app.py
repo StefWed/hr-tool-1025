@@ -144,7 +144,7 @@ def main():
                     st.success(f"Added {first_name} {last_name} to dataset.")
                     st.json(new_row)
                     # Refresh cached data
-                    st.experimental_rerun()
+                    st.rerun()
                 except Exception as e:
                     st.error(f"Failed to append row: {e}")
 
