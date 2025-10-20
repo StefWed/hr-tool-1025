@@ -1,101 +1,103 @@
 First Name,Last Name,Residence (Canton),Age,Department,Seniority Level,Workload,Vacation Days Total,Vacation Days Taken,Hire Date
-Mara,Schneider,Luzern,32,IT,Mid,100%,25,22,2017-06-30
-Anna,Wyss,Solothurn,26,Production,Junior,90%,22,21,2022-12-02
-Sarah,Gerber,Basel-Landschaft,45,Finance,Senior,70%,18,6,2012-01-29
-Jan,Wyss,St. Gallen,29,Sales,Junior,100%,25,16,2025-01-13
-Simon,Zimmermann,Zürich,25,HR,Junior,60%,15,7,2021-05-05
-Mara,Schneider,Schwyz,38,HR,Mid,100%,25,5,2016-11-28
-Reto,Schneider,Zürich,29,Sales,Mid,70%,18,12,2020-03-31
-Nina,Müller,Luzern,31,IT,Mid,90%,22,0,2015-06-12
-Jonas,Meier,Thurgau,36,Production,Senior,90%,22,20,2008-09-27
-Florian,Schneider,Basel-Landschaft,36,HR,Mid,90%,22,13,2019-08-19
-Jan,Müller,Bern,42,Sales,Senior,60%,15,10,2008-12-10
-David,Roth,Zug,28,HR,Mid,100%,25,0,2018-06-20
-Nicole,Meier,Zug,49,IT,Senior,100%,25,14,2012-05-08
-Reto,Moser,Zug,45,Production,Manager,60%,15,9,2007-05-15
-Florian,Frei,Zug,48,IT,Senior,70%,18,16,2014-01-02
-Florian,Roth,Bern,48,IT,Manager,60%,15,6,2013-04-18
-Sandro,Huber,Bern,37,Finance,Senior,100%,25,12,2014-05-05
-Pascal,Schneider,St. Gallen,31,IT,Mid,60%,15,6,2020-04-01
-Simon,Huber,Zug,44,IT,Senior,70%,18,18,2012-07-04
-Fabian,Fischer,St. Gallen,24,IT,Junior,100%,25,8,2021-12-11
-Jonas,Moser,Schwyz,28,Sales,Junior,100%,25,10,2024-11-14
-Nicole,Weber,Zug,46,Production,Manager,90%,22,7,2006-08-14
-Tobias,Schneider,St. Gallen,39,Finance,Senior,70%,18,3,2008-09-20
-Lukas,Brunner,Zug,43,Production,Manager,100%,25,10,2013-03-10
-Mara,Müller,Schwyz,38,HR,Mid,100%,25,23,2018-01-20
-Fabian,Wyss,St. Gallen,55,Production,Director,70%,18,8,2006-08-26
-Mara,Frei,Luzern,25,Production,Junior,80%,20,5,2021-10-27
-Simon,Schneider,Solothurn,27,IT,Junior,80%,20,17,2019-09-12
-Laura,Kunz,Bern,29,Finance,Junior,60%,15,12,2021-11-12
-Reto,Frei,Solothurn,29,HR,Mid,80%,20,18,2019-09-02
-Florian,Wyss,Schwyz,37,HR,Senior,80%,20,15,2010-08-29
-Sandro,Steiner,Basel-Landschaft,39,Production,Senior,80%,20,9,2010-03-15
-Matteo,Roth,Basel-Landschaft,27,Sales,Junior,100%,25,16,2022-05-15
-Florian,Fischer,Basel-Landschaft,47,Sales,Senior,60%,15,14,2014-06-01
-Jan,Frei,Schwyz,24,Sales,Junior,90%,22,10,2021-04-22
-Simon,Graf,Schwyz,38,Sales,Mid,100%,25,8,2018-02-28
-Mara,Schneider,St. Gallen,36,HR,Mid,90%,22,10,2020-06-20
-Pascal,Schneider,Thurgau,26,HR,Junior,70%,18,7,2025-03-08
-Nina,Steiner,Schwyz,42,Finance,Senior,60%,15,9,2010-03-31
-Nicole,Keller,Zürich,22,Sales,Junior,90%,22,22,2019-12-15
-Sandro,Huber,Luzern,33,Production,Mid,90%,22,9,2013-07-13
-Sandro,Moser,Solothurn,25,Finance,Junior,70%,18,15,2019-08-20
-Jonas,Meier,Basel-Landschaft,41,IT,Senior,70%,18,6,2015-06-23
-Reto,Wyss,Schwyz,25,IT,Junior,70%,18,7,2021-01-24
-Anna,Müller,Zürich,47,HR,Senior,80%,20,3,2012-08-31
-Simon,Bucher,Aargau,29,Production,Junior,100%,25,14,2021-11-04
-Florian,Kunz,Bern,33,Sales,Mid,90%,22,14,2012-09-02
-Fabian,Zimmermann,Bern,49,HR,Senior,60%,15,12,2008-11-25
-Mara,Huber,Luzern,30,HR,Mid,90%,22,2,2012-11-21
-Julia,Meyer,Aargau,22,Production,Junior,90%,22,4,2018-07-16
-Sarah,Moser,Zug,42,Sales,Manager,80%,20,3,2008-08-09
-Nina,Bucher,Luzern,30,HR,Mid,70%,18,12,2012-12-21
-Lea,Bucher,Zürich,23,Production,Junior,90%,22,9,2024-08-26
-Sandro,Müller,Schwyz,22,Finance,Junior,100%,25,5,2025-03-18
-Sarah,Fischer,Aargau,39,Sales,Mid,100%,25,18,2015-06-27
-David,Brunner,Zug,29,IT,Mid,60%,15,8,2015-03-31
-Nina,Müller,St. Gallen,24,Production,Junior,90%,22,20,2018-05-27
-Anna,Steiner,Zürich,42,Production,Senior,100%,25,8,2016-11-29
-Jan,Moser,Zug,59,Finance,Director,90%,22,6,2006-10-20
-Anna,Bucher,Thurgau,32,Finance,Mid,60%,15,5,2015-05-21
-Nicole,Müller,Solothurn,33,Production,Mid,70%,18,11,2012-11-18
-Jonas,Wyss,Basel-Landschaft,28,HR,Junior,70%,18,14,2022-08-28
-Lukas,Fischer,Luzern,29,HR,Mid,80%,20,13,2014-01-26
-David,Keller,St. Gallen,46,Production,Manager,70%,18,7,2008-09-06
-Jonas,Baumann,St. Gallen,49,IT,Senior,100%,25,22,2013-08-03
-Sarah,Wyss,Bern,23,IT,Junior,100%,25,13,2022-01-19
-Florian,Wyss,Luzern,54,IT,Director,100%,25,8,2009-03-01
-Matteo,Zimmermann,St. Gallen,35,Production,Mid,90%,22,11,2016-04-11
-Nina,Huber,Schwyz,38,Finance,Senior,80%,20,16,2015-08-11
-Jan,Brunner,Bern,35,Production,Senior,80%,20,9,2011-09-19
-David,Graf,Basel-Landschaft,24,Production,Junior,80%,20,19,2018-04-17
-Reto,Zimmermann,Schwyz,31,IT,Mid,100%,25,7,2016-11-21
-Sandro,Moser,Bern,25,Production,Junior,60%,15,5,2024-10-17
-Nicole,Baumann,Schwyz,23,Finance,Junior,90%,22,8,2018-08-02
-Sandro,Baumann,Luzern,51,HR,Manager,80%,20,15,2010-01-21
-Laura,Baumann,Bern,37,Finance,Senior,60%,15,8,2016-05-18
-David,Bucher,Zürich,42,Production,Manager,70%,18,8,2011-07-14
-Lukas,Gerber,Zürich,28,Sales,Junior,80%,20,1,2018-09-11
-Pascal,Schneider,Bern,32,IT,Mid,70%,18,7,2020-09-27
-Matteo,Wyss,Luzern,32,IT,Mid,60%,15,11,2016-03-27
-Reto,Roth,Zürich,29,Finance,Mid,70%,18,18,2014-04-27
-Fabian,Bucher,Zürich,30,HR,Mid,90%,22,12,2017-02-26
-Fabian,Moser,Schwyz,32,IT,Mid,60%,15,7,2018-02-25
-Jan,Steiner,Aargau,27,Finance,Junior,70%,18,14,2018-06-30
-Simon,Roth,St. Gallen,27,Production,Junior,60%,15,3,2021-09-14
-Fabian,Steiner,Basel-Landschaft,42,Sales,Senior,90%,22,9,2011-08-22
-Fabian,Bucher,Aargau,49,HR,Senior,90%,22,11,2016-01-24
-Tobias,Steiner,Aargau,30,IT,Mid,100%,25,15,2012-06-19
-Nina,Schneider,Zürich,42,Finance,Manager,80%,20,18,2013-07-24
-David,Baumann,Bern,47,Sales,Senior,80%,20,6,2015-02-13
-Matteo,Schneider,Bern,33,HR,Mid,70%,18,1,2016-08-02
-Jonas,Müller,Basel-Landschaft,26,HR,Junior,90%,22,2,2025-11-03
-Nina,Roth,Luzern,28,Finance,Mid,60%,15,8,2020-04-05
-Reto,Graf,Thurgau,46,Finance,Senior,80%,20,8,2015-05-11
-Reto,Zimmermann,Bern,36,Sales,Mid,100%,25,11,2012-04-09
-Tobias,Müller,Luzern,28,Production,Junior,60%,15,6,2021-04-16
-Lukas,Brunner,Zug,33,HR,Mid,80%,20,2,2019-12-09
-Fabian,Weber,Aargau,29,Finance,Junior,60%,15,5,2022-07-17
-Jan,Müller,Basel-Landschaft,43,Finance,Senior,100%,25,10,2014-05-22
-David,Graf,Zug,29,IT,Junior,80%,20,14,2024-06-27
+Mara,Schneider,Luzern,32,IT,Mid,100%,25,22,2017-06-30 00:00:00
+Anna,Wyss,Solothurn,26,Production,Junior,90%,22,21,2022-12-02 00:00:00
+Sarah,Gerber,Basel-Landschaft,45,Finance,Senior,70%,18,6,2012-01-29 00:00:00
+Jan,Wyss,St. Gallen,29,Sales,Junior,100%,25,16,2025-01-13 00:00:00
+Simon,Zimmermann,Zürich,25,HR,Junior,60%,15,7,2021-05-05 00:00:00
+Mara,Schneider,Schwyz,38,HR,Mid,100%,25,5,2016-11-28 00:00:00
+Reto,Schneider,Zürich,29,Sales,Mid,70%,18,12,2020-03-31 00:00:00
+Nina,Müller,Luzern,31,IT,Mid,90%,22,0,2015-06-12 00:00:00
+Jonas,Meier,Thurgau,36,Production,Senior,90%,22,20,2008-09-27 00:00:00
+Florian,Schneider,Basel-Landschaft,36,HR,Mid,90%,22,13,2019-08-19 00:00:00
+Jan,Müller,Bern,42,Sales,Senior,60%,15,10,2008-12-10 00:00:00
+David,Roth,Zug,28,HR,Mid,100%,25,0,2018-06-20 00:00:00
+Nicole,Meier,Zug,49,IT,Senior,100%,25,14,2012-05-08 00:00:00
+Reto,Moser,Zug,45,Production,Manager,60%,15,9,2007-05-15 00:00:00
+Florian,Frei,Zug,48,IT,Senior,70%,18,16,2014-01-02 00:00:00
+Florian,Roth,Bern,48,IT,Manager,60%,15,6,2013-04-18 00:00:00
+Sandro,Huber,Bern,37,Finance,Senior,100%,25,12,2014-05-05 00:00:00
+Pascal,Schneider,St. Gallen,31,IT,Mid,60%,15,6,2020-04-01 00:00:00
+Simon,Huber,Zug,44,IT,Senior,70%,18,18,2012-07-04 00:00:00
+Fabian,Fischer,St. Gallen,24,IT,Junior,100%,25,8,2021-12-11 00:00:00
+Jonas,Moser,Schwyz,28,Sales,Junior,100%,25,10,2024-11-14 00:00:00
+Nicole,Weber,Zug,46,Production,Manager,90%,22,7,2006-08-14 00:00:00
+Tobias,Schneider,St. Gallen,39,Finance,Senior,70%,18,3,2008-09-20 00:00:00
+Lukas,Brunner,Zug,43,Production,Manager,100%,25,10,2013-03-10 00:00:00
+Mara,Müller,Schwyz,38,HR,Mid,100%,25,23,2018-01-20 00:00:00
+Fabian,Wyss,St. Gallen,55,Production,Director,70%,18,8,2006-08-26 00:00:00
+Mara,Frei,Luzern,25,Production,Junior,80%,20,5,2021-10-27 00:00:00
+Simon,Schneider,Solothurn,27,IT,Junior,80%,20,17,2019-09-12 00:00:00
+Laura,Kunz,Bern,29,Finance,Junior,60%,15,12,2021-11-12 00:00:00
+Reto,Frei,Solothurn,29,HR,Mid,80%,20,18,2019-09-02 00:00:00
+Florian,Wyss,Schwyz,37,HR,Senior,80%,20,15,2010-08-29 00:00:00
+Sandro,Steiner,Basel-Landschaft,39,Production,Senior,80%,20,9,2010-03-15 00:00:00
+Matteo,Roth,Basel-Landschaft,27,Sales,Junior,100%,25,16,2022-05-15 00:00:00
+Florian,Fischer,Basel-Landschaft,47,Sales,Senior,60%,15,14,2014-06-01 00:00:00
+Jan,Frei,Schwyz,24,Sales,Junior,90%,22,10,2021-04-22 00:00:00
+Simon,Graf,Schwyz,38,Sales,Mid,100%,25,8,2018-02-28 00:00:00
+Mara,Schneider,St. Gallen,36,HR,Mid,90%,22,10,2020-06-20 00:00:00
+Pascal,Schneider,Thurgau,26,HR,Junior,70%,18,7,2025-03-08 00:00:00
+Nina,Steiner,Schwyz,42,Finance,Senior,60%,15,9,2010-03-31 00:00:00
+Nicole,Keller,Zürich,22,Sales,Junior,90%,22,22,2019-12-15 00:00:00
+Sandro,Huber,Luzern,33,Production,Mid,90%,22,9,2013-07-13 00:00:00
+Sandro,Moser,Solothurn,25,Finance,Junior,70%,18,15,2019-08-20 00:00:00
+Jonas,Meier,Basel-Landschaft,41,IT,Senior,70%,18,6,2015-06-23 00:00:00
+Reto,Wyss,Schwyz,25,IT,Junior,70%,18,7,2021-01-24 00:00:00
+Anna,Müller,Zürich,47,HR,Senior,80%,20,3,2012-08-31 00:00:00
+Simon,Bucher,Aargau,29,Production,Junior,100%,25,14,2021-11-04 00:00:00
+Florian,Kunz,Bern,33,Sales,Mid,90%,22,14,2012-09-02 00:00:00
+Fabian,Zimmermann,Bern,49,HR,Senior,60%,15,12,2008-11-25 00:00:00
+Mara,Huber,Luzern,30,HR,Mid,90%,22,2,2012-11-21 00:00:00
+Julia,Meyer,Aargau,22,Production,Junior,90%,22,4,2018-07-16 00:00:00
+Sarah,Moser,Zug,42,Sales,Manager,80%,20,3,2008-08-09 00:00:00
+Nina,Bucher,Luzern,30,HR,Mid,70%,18,12,2012-12-21 00:00:00
+Lea,Bucher,Zürich,23,Production,Junior,90%,22,9,2024-08-26 00:00:00
+Sandro,Müller,Schwyz,22,Finance,Junior,100%,25,5,2025-03-18 00:00:00
+Sarah,Fischer,Aargau,39,Sales,Mid,100%,25,18,2015-06-27 00:00:00
+David,Brunner,Zug,29,IT,Mid,60%,15,8,2015-03-31 00:00:00
+Nina,Müller,St. Gallen,24,Production,Junior,90%,22,20,2018-05-27 00:00:00
+Anna,Steiner,Zürich,42,Production,Senior,100%,25,8,2016-11-29 00:00:00
+Jan,Moser,Zug,59,Finance,Director,90%,22,6,2006-10-20 00:00:00
+Anna,Bucher,Thurgau,32,Finance,Mid,60%,15,5,2015-05-21 00:00:00
+Nicole,Müller,Solothurn,33,Production,Mid,70%,18,11,2012-11-18 00:00:00
+Jonas,Wyss,Basel-Landschaft,28,HR,Junior,70%,18,14,2022-08-28 00:00:00
+Lukas,Fischer,Luzern,29,HR,Mid,80%,20,13,2014-01-26 00:00:00
+David,Keller,St. Gallen,46,Production,Manager,70%,18,7,2008-09-06 00:00:00
+Jonas,Baumann,St. Gallen,49,IT,Senior,100%,25,22,2013-08-03 00:00:00
+Sarah,Wyss,Bern,23,IT,Junior,100%,25,13,2022-01-19 00:00:00
+Florian,Wyss,Luzern,54,IT,Director,100%,25,8,2009-03-01 00:00:00
+Matteo,Zimmermann,St. Gallen,35,Production,Mid,90%,22,11,2016-04-11 00:00:00
+Nina,Huber,Schwyz,38,Finance,Senior,80%,20,16,2015-08-11 00:00:00
+Jan,Brunner,Bern,35,Production,Senior,80%,20,9,2011-09-19 00:00:00
+David,Graf,Basel-Landschaft,24,Production,Junior,80%,20,19,2018-04-17 00:00:00
+Reto,Zimmermann,Schwyz,31,IT,Mid,100%,25,7,2016-11-21 00:00:00
+Sandro,Moser,Bern,25,Production,Junior,60%,15,5,2024-10-17 00:00:00
+Nicole,Baumann,Schwyz,23,Finance,Junior,90%,22,8,2018-08-02 00:00:00
+Sandro,Baumann,Luzern,51,HR,Manager,80%,20,15,2010-01-21 00:00:00
+Laura,Baumann,Bern,37,Finance,Senior,60%,15,8,2016-05-18 00:00:00
+David,Bucher,Zürich,42,Production,Manager,70%,18,8,2011-07-14 00:00:00
+Lukas,Gerber,Zürich,28,Sales,Junior,80%,20,1,2018-09-11 00:00:00
+Pascal,Schneider,Bern,32,IT,Mid,70%,18,7,2020-09-27 00:00:00
+Matteo,Wyss,Luzern,32,IT,Mid,60%,15,11,2016-03-27 00:00:00
+Reto,Roth,Zürich,29,Finance,Mid,70%,18,18,2014-04-27 00:00:00
+Fabian,Bucher,Zürich,30,HR,Mid,90%,22,12,2017-02-26 00:00:00
+Fabian,Moser,Schwyz,32,IT,Mid,60%,15,7,2018-02-25 00:00:00
+Jan,Steiner,Aargau,27,Finance,Junior,70%,18,14,2018-06-30 00:00:00
+Simon,Roth,St. Gallen,27,Production,Junior,60%,15,3,2021-09-14 00:00:00
+Fabian,Steiner,Basel-Landschaft,42,Sales,Senior,90%,22,9,2011-08-22 00:00:00
+Fabian,Bucher,Aargau,49,HR,Senior,90%,22,11,2016-01-24 00:00:00
+Tobias,Steiner,Aargau,30,IT,Mid,100%,25,15,2012-06-19 00:00:00
+Nina,Schneider,Zürich,42,Finance,Manager,80%,20,18,2013-07-24 00:00:00
+David,Baumann,Bern,47,Sales,Senior,80%,20,6,2015-02-13 00:00:00
+Matteo,Schneider,Bern,33,HR,Mid,70%,18,1,2016-08-02 00:00:00
+Jonas,Müller,Basel-Landschaft,26,HR,Junior,90%,22,2,2025-11-03 00:00:00
+Nina,Roth,Luzern,28,Finance,Mid,60%,15,8,2020-04-05 00:00:00
+Reto,Graf,Thurgau,46,Finance,Senior,80%,20,8,2015-05-11 00:00:00
+Reto,Zimmermann,Bern,36,Sales,Mid,100%,25,11,2012-04-09 00:00:00
+Tobias,Müller,Luzern,28,Production,Junior,60%,15,6,2021-04-16 00:00:00
+Lukas,Brunner,Zug,33,HR,Mid,80%,20,2,2019-12-09 00:00:00
+Fabian,Weber,Aargau,29,Finance,Junior,60%,15,5,2022-07-17 00:00:00
+Jan,Müller,Basel-Landschaft,43,Finance,Senior,100%,25,10,2014-05-22 00:00:00
+David,Graf,Zug,29,IT,Junior,80%,20,14,2024-06-27 00:00:00
+Regula,Schweizer,Aargau,42,Finance,Senior,100%,25,6,2025-10-20
+Urs,Wendel,Bern,38,Production,Senior,100%,25,5,2025-10-20
