@@ -12,7 +12,8 @@ def get_data():
 
 def main():
     st.title("HR Tool — Dashboard & Employee Manager")
-    st.markdown("Multi-tab internal HR dashboard (Visualizations / Add Employee / Future: Chatbot)")
+    st.markdown("This is a multi-tab internal HR dashboard with visualizations around existing employees, a form to add employees. " 
+                "In the future, a chatbot to ask direct questions about employees or internal regulations will be added.")
 
     df = get_data()
     tabs = st.tabs(["Visualizations", "Add Employee", "Future (Chatbot)"])
