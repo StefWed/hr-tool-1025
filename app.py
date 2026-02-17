@@ -31,8 +31,8 @@ def main():
             selected_dept = st.selectbox("Department", depts, index=0)
             cantons = ["All"] + sorted(df["Residence (Canton)"].dropna().unique().tolist())
             selected_canton = st.selectbox("Canton", cantons, index=0)
-            min_age, max_age = int(df["Age"].min()), int(df["Age"].max())
-            age_range = st.slider("Age range", min_age, max_age, (min_age, max_age))
+            #min_age, max_age = int(df["Age"].min()), int(df["Age"].max())
+            #age_range = st.slider("Age range", min_age, max_age, (min_age, max_age))
 
         # Apply filters
         vis_df = df.copy()
@@ -40,7 +40,7 @@ def main():
             vis_df = vis_df[vis_df["Department"] == selected_dept]
         if selected_canton != "All":
             vis_df = vis_df[vis_df["Residence (Canton)"] == selected_canton]
-        vis_df = vis_df[(vis_df["Age"] >= age_range[0]) & (vis_df["Age"] <= age_range[1])]
+        #vis_df = vis_df[(vis_df["Age"] >= age_range[0]) & (vis_df["Age"] <= age_range[1])]
 
         # Show counts
         cols = st.columns(3)
@@ -86,11 +86,23 @@ def main():
             st.plotly_chart(fig2, width="content")
 
         # 3) General age distribution
-        st.subheader("3) General Age Distribution")
+        # st.subheader("3) General Age Distribution")
+        # if vis_df.empty:
+        #     st.info("No data for selected filters.")
+        # else:
+        #     fig3 = px.histogram(vis_df, x="Age", nbins=15, title="Age histogram", marginal="box")
+        #     st.plotly_chart(fig3, width="content")
+
+
+        st.subheader("3) Hiring Trend Over Time")
         if vis_df.empty:
-            st.info("No data for selected filters.")
+            st.info("No data for selected filters")
         else:
-            fig3 = px.histogram(vis_df, x="Age", nbins=15, title="Age histogram", marginal="box")
+            vis_df['Hire Date'] = pd.to_datetime(vis_df['Hire Date'], errors='coerce')
+            hires_per_year = vis_df['Hire Date'].dt.year.value_counts().sort_index()
+            hires_df = hires_per_year.reset_index()
+            hires_df.columns = ["Year", "Hires"]
+            fig3 = px.bar(hires_df, x="Year", y="Hires", title="Total Hires Per Year", height=300)
             st.plotly_chart(fig3, width="content")
 
         # Show filtered table option
