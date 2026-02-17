@@ -59,7 +59,7 @@ def main():
             fig1 = px.box(vis_df, x="Department", y="Age", points="all",
                           title="Age distribution per Department",
                           labels={"Age": "Age (years)"})
-            st.plotly_chart(fig1, use_container_width=True)
+            st.plotly_chart(fig1, width="content")
 
         # 2) Workload by age (scatter)
         st.subheader("2) Workload by Age")
@@ -82,7 +82,7 @@ def main():
                               hover_data=["First Name", "Last Name", "Department", "Workload"],
                               title="Workload (fraction) by Age",
                               labels={"workload_frac": "Workload (fraction)", "Age":"Age"})
-            st.plotly_chart(fig2, use_container_width=True)
+            st.plotly_chart(fig2, width="content")
 
         # 3) General age distribution
         st.subheader("3) General Age Distribution")
@@ -90,7 +90,7 @@ def main():
             st.info("No data for selected filters.")
         else:
             fig3 = px.histogram(vis_df, x="Age", nbins=15, title="Age histogram", marginal="box")
-            st.plotly_chart(fig3, use_container_width=True)
+            st.plotly_chart(fig3, width="content")
 
         # Show filtered table option
         with st.expander("Show filtered data table"):
